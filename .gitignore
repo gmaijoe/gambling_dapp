@@ -10,6 +10,8 @@
 /build
 
 # misc
+.app/env
+.server/env
 .env
 .DS_Store
 .env.local
